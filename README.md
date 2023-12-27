@@ -4,7 +4,7 @@
 
     $ npm create vite@latest
 
-##### select React and Javascript
+##### Select React and Javascript in the options
 
     $ cd your-project-name
 
