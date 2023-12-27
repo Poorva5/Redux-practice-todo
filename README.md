@@ -1,6 +1,6 @@
 # React + Vite
 
-##PROJECT SETUP
+#### Project Setup
 
     $ npm create vite@latest
 
@@ -10,9 +10,10 @@
 
     $ npm install
 
-## RUN PROJECT
+#### Run Project
 
     $ npm run dev
 
+#### Project Preview
 
 ![alt text](./public/demo.png)
